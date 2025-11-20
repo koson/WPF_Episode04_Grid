@@ -1,6 +1,6 @@
 using System.Windows;
 
-namespace WpfDemoTemplate
+namespace WPF_Episode04_Grid
 {
     public partial class MainWindow : Window
     {
